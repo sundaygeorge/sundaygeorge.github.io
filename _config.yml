@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Georges Seurat"
+title                    : "Georges Seurat's Personal Website"
 title_separator          : "-"
 name                     : &name "Georges Seurat"
 description              : &description "personal description"
