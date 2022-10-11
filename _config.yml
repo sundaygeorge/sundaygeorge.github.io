@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Georges Seurat's Personal Website"
 title_separator          : "-"
 name                     : &name "Georges Seurat"
-description              : &description "personal description"
+description              : &description "Look, I made a hat... Where there never was a hat"
 url                      : https://sundaygeorge.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sundaygeorge/sundaygeorge.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Georges Seurat"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Order. Design. Tension. Balance. Harmony."
+  location         : "Island of La Grande Jatte"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
